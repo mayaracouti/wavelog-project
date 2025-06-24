@@ -1,0 +1,6 @@
+@wavelog_web_HostAddress = http://localhost:5207
+
+GET {{wavelog_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
